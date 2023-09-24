@@ -1,1 +1,1 @@
-# Project Mosquito | PSTU_WebWizards | PSTU IT Carnival Hackathon 
+# Project Mosquito | PSTU_WebWizards
